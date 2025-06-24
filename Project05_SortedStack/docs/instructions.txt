@@ -1,0 +1,5 @@
+To compile:
+javac SortedStack.java
+
+To run:
+java SortedStack
